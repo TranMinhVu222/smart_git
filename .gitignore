@@ -1,0 +1,48 @@
+# OS Generated
+# ============
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+# Visual Studio / MonoDevelop generated
+# =====================================
+[Ee]xported[Oo]bj/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.cs~
+.vs/
+.vsconfig
+Geometry/x64
+# Unity generated
+# ===============
+[Oo]bj/
+sysinfo.txt
+*.stackdump
+Library/*
+Temp/
+Logs/
+UserSettings/
+packages-lock.json
+Assets/StreamingAssets/crashlytics-build.properties
+Assets/StreamingAssets/crashlytics-build.properties.meta
+Assets/StreamingAssets/build_info.txt
+Assets/StreamingAssets/build_info.txt.meta
+Assets/StreamingAssets/google-services-desktop.json
+Assets/StreamingAssets/google-services-desktop.json.meta
+.gradle/
+# Config files
+.idea
+Recordings
+Preview
+Screenshots
+remote_config_data
+*.apk
